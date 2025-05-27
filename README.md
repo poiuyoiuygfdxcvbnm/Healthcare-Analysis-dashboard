@@ -77,4 +77,4 @@ Custom filters by time, location, diagnosis type, and facility for flexible expl
 
 📸 Screenshots
 
-See what the dashboard looks like: ![Dashboard Preview](https://github.com/poiuyoiuygfdxcvbnm/Healthcare-Analysis-dashboard/blob/main/snapshot%20of%20healthcare.jpg)
+See what the dashboard looks like: ![Dashboard Preview](https://github.com/tanvi-patel08/Healthcare-Analysis-dashboard/blob/main/snapshot%20of%20healthcare%20dashboard.png)
