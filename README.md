@@ -11,6 +11,7 @@ This Power BI dashboard provides a comprehensive analysis of healthcare data to 
 
 
 🌟 Features & Highlights
+
 🔹 Features
 1. Interactive Dashboards: User-friendly and dynamic visuals for real-time exploration.
 2. Custom Visuals: Professionally designed charts and graphs for better insights.
@@ -20,6 +21,7 @@ This Power BI dashboard provides a comprehensive analysis of healthcare data to 
 6. Power Query Transformations: Cleaned, transformed, and formatted raw data sources for analysis.
 
 ✨ Highlights
+
 📌 Patient Demographics Analysis: Breakdown by age, gender, and geography.
 📌 Disease & Treatment Trends: Insights into common diagnoses and their outcomes.
 📌 Healthcare Facility Performance: Metrics like admission rates, discharge counts, and patient satisfaction.
@@ -70,6 +72,7 @@ Custom filters by time, location, diagnosis type, and facility for flexible expl
 4. Cost Optimization: Identifies high-cost areas and opportunities for budget refinement.
 
 🔍 Key Insights
+
 1.Demographic trends help target preventive care initiatives.
 2. Seasonal disease patterns assist in resource planning.
 3. Underperforming clinics or departments are quickly identified for intervention.
